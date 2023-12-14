@@ -7,7 +7,3 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielvinicius02&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default"/>
 </div>
-
-<div>
-  <a href="https://www.linkedin.com/in/gabrielvinicius02" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
